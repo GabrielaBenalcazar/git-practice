@@ -9,3 +9,6 @@ I don't understand them
 ## Linux basics
 
 Something about cd, ls, pwd...
+hello
+bye
+bye
